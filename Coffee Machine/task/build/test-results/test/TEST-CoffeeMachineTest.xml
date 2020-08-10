@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CoffeeMachineTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-10T19:29:50" hostname="LAPTOP-KUPNSVB0" time="0.312">
+  <properties/>
+  <testcase name="start" classname="CoffeeMachineTest" time="0.312"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> 2
+I have enough resources, making you a coffee.
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> 2
+There are not enough supplies to produce that cup of coffee.
+Please select either buy, fill, take, remaining, or exit.
+> fill
+How many mL of water would you like to add to the machine?
+> 1000
+How many mL of milk would you like to add to the machine?
+> 0
+How many g of coffee beans would you like to add to the machine?
+> 0
+How many cups would you like to add to the machine?
+> 0
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> 2
+I have enough resources, making you a coffee.
+Please select either buy, fill, take, remaining, or exit.
+> take
+I gave you $564
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+700 mL of water
+390 mL of milk
+80 gof coffee beans
+7 of disposable cups
+0 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+?[1;31m
+Start test 2?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> fill
+How many mL of water would you like to add to the machine?
+> 3000
+How many mL of milk would you like to add to the machine?
+> 3000
+How many g of coffee beans would you like to add to the machine?
+> 3000
+How many cups would you like to add to the machine?
+> 3000
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+3400 mL of water
+3540 mL of milk
+3120 gof coffee beans
+3009 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+?[1;31m
+Start test 3?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> 1
+I have enough resources, making you a coffee.
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+150 mL of water
+540 mL of milk
+104 gof coffee beans
+8 of disposable cups
+554 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+?[1;31m
+Start test 4?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> 2
+I have enough resources, making you a coffee.
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+50 mL of water
+465 mL of milk
+100 gof coffee beans
+8 of disposable cups
+557 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+?[1;31m
+Start test 5?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> 3
+I have enough resources, making you a coffee.
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+200 mL of water
+440 mL of milk
+108 gof coffee beans
+8 of disposable cups
+556 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+?[1;31m
+Start test 6?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> take
+I gave you $550
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+0 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+?[1;31m
+Start test 7?[0m
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> buy
+What would you like to buy? Enter 1 for an espresso, 2 for a latter, or 3 for a cappuccino.
+Type 'back' if you would like to return to the main menu.
+> back
+Please select either buy, fill, take, remaining, or exit.
+Please select either buy, fill, take, remaining, or exit.
+> remaining
+The coffee machine has:
+400 mL of water
+540 mL of milk
+120 gof coffee beans
+9 of disposable cups
+550 of money
+
+Please select either buy, fill, take, remaining, or exit.
+> exit
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
